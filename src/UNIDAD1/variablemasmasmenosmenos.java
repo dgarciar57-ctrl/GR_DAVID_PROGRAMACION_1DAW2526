@@ -17,6 +17,8 @@ public class variablemasmasmenosmenos {
 		        System.out.println("Resultado de x++: " + x++); 
 
 		        System.out.println("Valor de x después de x++: " + x);
+		        
+		        
 
 	}
 
