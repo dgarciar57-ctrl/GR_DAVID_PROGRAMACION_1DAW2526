@@ -48,5 +48,6 @@ System.out.println("Módulo: " + (x % y));
 	 int edad = 20;
 	 boolean permiso = false;
 	 System.out.println((edad >= 18) && permiso);
+	 
 
 		}}
