@@ -4,6 +4,7 @@ public class CompararStrings {
 
 	public static void main(String[] args) {
 		
+		
 		String a = "hola";
 		String b = new String("Hola");
 		
