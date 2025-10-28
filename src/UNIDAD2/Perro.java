@@ -20,8 +20,16 @@ public class Perro {
 		   nombre = n;
 	}
 	
+	
+	
+	public String getNombre() {
+		return nombre;
+	}
+
+
+
 	public void setRaza(String r) {
-		raza = r;
+			raza = r;
 	}
 	
 
@@ -48,5 +56,8 @@ public class Perro {
 		
 		mascota.ladrar();
 		caza.ladrar();
+		
+		
+		System.out.println("El perro ganador ha sido: "+caza.getNombre());
 	}
 }

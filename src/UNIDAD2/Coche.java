@@ -25,12 +25,18 @@ año=2000;
 		 Coche coche1= new Coche();
 		 
 		 Coche coche2= new Coche("Toyota", 2022);
-     }
+     
+	 }
  
  
  
  
  
-}}
+}
+
+ public void mostrarCoche() {
+	// TODO Auto-generated method stub
+	
+ }}
  	
  	 
