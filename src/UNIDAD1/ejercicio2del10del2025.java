@@ -18,7 +18,7 @@ public class ejercicio2del10del2025 {
 		System.out.printf("El percio es: %.1f",precio);
 		System.out.printf("El percio es: %.1f",precio);
 	
-// Ejemplo de printf con numeros double e imprimiendo en columnas
+
 	
 		
 	
