@@ -7,7 +7,7 @@ public class edadeif {
 
 ;
 
-int nota=9;
+int nota=2;
 
 
 			if (nota >= 5) {

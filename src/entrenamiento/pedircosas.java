@@ -5,7 +5,15 @@ import java.util.Scanner;
 public class pedircosas {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		
+		
+		
+		
+		/*Pedimos al ususario que Introduzca su nombre y sus usuario 
+		 * 	
+		 * 
+		 */
 		
 Scanner sc = new Scanner (System.in);	
 		
@@ -14,6 +22,9 @@ Scanner sc = new Scanner (System.in);
 		
 	System.out.println("Introduce tu ciudad: ");
 	    String ciudad = sc.nextLine();
+	    
+	    
+	    
 	    
 System.out.println("Te llamas " + nombre + ", y eres de " + ciudad);
 
